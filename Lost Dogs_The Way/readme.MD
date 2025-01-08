@@ -86,6 +86,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd "Lost-Dogs-The-Way-main/Lost-Dogs-The-Way"; node meomundep`
+> To run the bot, use the following command: `cd "Lost-Dogs-The-Way-main/Lost Dogs_The Way"; node meomundep`
 
 🎇Enjoy!
